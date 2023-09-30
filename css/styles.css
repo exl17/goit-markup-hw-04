@@ -23,6 +23,8 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
+    display: flex;
+        align-items: baseline;
     
 }
 
@@ -463,6 +465,8 @@ align-items: baseline;
 
 .footer-container {
     margin-right: 120px;
+    display: flex;
+        align-items: baseline;
 
 }
 .social {
