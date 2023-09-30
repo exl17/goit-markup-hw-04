@@ -466,8 +466,8 @@ padding: 100px 0;
 
 }
 .social {
-display: flex;
-align-items: baseline;
+
+margin-right: 120px;
 }
 
 .social-media-list {
@@ -524,5 +524,6 @@ color: var(--CLOUD, #F4F4FD);
 }
 
 .footer-div {
-    margin-right: 120px;
+    display: flex;
+        align-items: baseline;
 }
