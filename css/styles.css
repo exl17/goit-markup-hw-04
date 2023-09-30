@@ -456,6 +456,7 @@ padding: 100px 0;
 
 
 
+
 }
 .footer .link-footer {
     color: #2E2F42;
@@ -473,12 +474,6 @@ padding: 100px 0;
     color: #404BBF;
 }
 
-.footer-container {
-    margin-right: 120px;
-}
-.social {
-margin-right: 120px;
-}
 
 .social-media-list {
     display: flex;
@@ -563,7 +558,8 @@ color: var(--CLOUD, #F4F4FD);
 
 .footer-div {
 display: flex;
-    align-items: baseline;
+align-items: baseline;
+    
     
 }
 .container-footer {
