@@ -470,7 +470,8 @@ align-items: baseline;
 
 }
 .social {
-
+display: flex;
+    align-items: baseline;
 }
 
 .social-media-list {
