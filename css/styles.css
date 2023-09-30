@@ -523,3 +523,6 @@ color: var(--CLOUD, #F4F4FD);
     margin-bottom: 16px;
 }
 
+.div-footer {
+    display: flex;
+}
