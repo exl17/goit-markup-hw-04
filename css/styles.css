@@ -23,8 +23,6 @@ img {
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
-    display: flex;
-        align-items: baseline;
     
 }
 
@@ -446,8 +444,7 @@ justify-content: center;
 .footer {
     background: var(--NAVY-BLUE, #2E2F42);
 padding: 100px 0;
-display: flex;
-align-items: baseline;
+
 
 }
 .footer .link-footer {
@@ -465,13 +462,12 @@ align-items: baseline;
 
 .footer-container {
     margin-right: 120px;
-    display: flex;
-        align-items: baseline;
+    
 
 }
 .social {
 display: flex;
-    align-items: baseline;
+align-items: baseline;
 }
 
 .social-media-list {
