@@ -523,6 +523,25 @@ color: var(--CLOUD, #F4F4FD);
     margin-bottom: 16px;
 }
 
+.link-footer-icon {
+    width: 100%;
+    height: 100%;
+    background-color: #4d5ae5;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.link-footer-icon:hover {
+    background-color: #31d0aa;
+}
+
+.link-footer-icon:focus {
+    background-color: #31d0aa;
+}
+
 .footer-div {
     display: flex;
         align-items: baseline;
